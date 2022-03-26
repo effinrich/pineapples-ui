@@ -8,6 +8,7 @@ import colors from '~/colors/src'
 // import borders from '~/border/src'
 // import zIndices from '~/z-index/src'
 import mdx from './mdx'
+import { DocLayout } from '~/doc-layout'
 
 export const theme = merge.all(
   [
