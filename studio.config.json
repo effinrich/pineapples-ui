@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      ["TOKENS", ["colors", "theme"]],
+      ["COMPONENTS", []],
+      ["DOCKIT", ["doc-layout"]]
+    ]
+  }
+}
